@@ -15,7 +15,7 @@
  <p>
     <a href="https://drive.google.com/file/d/1NU_lxIHSA_jWnz7IzYLNlDdmKbadBK2X/view?usp=sharing">
       <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://github.com/El-Mukkadem">
+    <a href="https://github.com/El-Mukkadem?tab=repositories">
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p> 
 
