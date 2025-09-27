@@ -36,6 +36,12 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,typescript,python,html,c,jira,postman,swagger,selenium,gherkin,apache,css,git,github,githubactions,jenkins,mongodb"/>
   </p>
 
+
+#### `🏆 GitHub Trophies`
+  <p align="left">
+  
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=el-mukkadem&theme=onestar&no-bg=true&no-frame=true&row=1&column=5)
+  </div>
 <br>
 
   <p align="left">
