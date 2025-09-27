@@ -4,6 +4,7 @@
 - 🖥️  I’m currently mastering Automation & AI Testing </p>
 <p align="left"> 
 - 📫  How to reach me: <a href="mahmoud.a.elmokadem@gmail.com">mahmoud.a.elmokadem@gmail.com</a>   </p>
+- 📝  Check out my resume: <a href="https://drive.google.com/file/d/1gq2sipxbVHoSnambjCfGomfvrdn9xq38/view?usp=sharing">Mahmoud El-Mokadem Resume</a>   </p>
 
 <h2>👨‍💻 Software Testing Projects:</h2>
 
