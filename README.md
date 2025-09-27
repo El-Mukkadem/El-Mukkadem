@@ -1,11 +1,48 @@
-<h1>⭐ Hello!, I'm Mahmoud El-Mokadem! <br/><a href="https://github.com/El-Mukkadem">QC Software Test Engineer</a> & <a href="https://www.linkedin.com/in/mahmoud-elmokadem-b38742130/">Agile Certified</a>
-</h1>
-<p align="left"> 
-- 🖥️  I’m currently mastering Automation & AI Testing </p>
-<p align="left"> 
-- 📫  How to reach me: <a href="mahmoud.a.elmokadem@gmail.com">mahmoud.a.elmokadem@gmail.com</a>   </p>
-- 📝  Check out my resume: <a href="https://drive.google.com/file/d/1gq2sipxbVHoSnambjCfGomfvrdn9xq38/view?usp=sharing">Mahmoud El-Mokadem Resume</a>   </p>
+<h1 align="center">Hi, I'm Mahmoud El-Mokadem</h1>
 
+<h2 align="center">Software Test Engineer | Automation & Manual</h2>
+<br>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/mahmoud-elmokadem-b38742130/"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
+<p>
+    <a href="https://www.linkedin.com/in/mahmoud-elmokadem-b38742130/"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:24px; object-fit:contain;"/></a>
+  </p>
+  
+ <p>
+    <a href="https://drive.google.com/file/d/1gq2sipxbVHoSnambjCfGomfvrdn9xq38/view?usp=sharing">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://github.com/El-Mukkadem">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p> 
+
+#### `📤 Connect & Communicate`
+  <p align="left">
+    <a href="mailto:mahmoud.a.elmokadem@gmail.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="41"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/mahmoud-elmokadem-b38742130/">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/></a> &nbsp;
+    <a href="https://wa.me/201070060039">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="47"/></a> &nbsp;
+    </a>
+  </p>
+
+  #### `🛠️ Top Skills`
+
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,typescript,python,html,c,jira,postman,swagger,selenium,gherkin,apache,css,git,github,githubactions,jenkins,mongodb"/>
+  </p>
+
+<br>
+
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=el-mukkadem&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=el-mukkadem&theme=highcontrast" height="125"/>
+  </p>
+<br>
 <h2>👨‍💻 Software Testing Projects:</h2>
 
 - <b>TestNG Selenium Full POM Test Automation Framework</b>
@@ -30,22 +67,9 @@
   - [C Language Problem Solving](https://www.hackerrank.com/certificates/7da334803d66)
  
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain-wordmark.svg" alt="Cucumber" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a> <a href="https://www.testrail.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/idTk1PqkG8/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1755759454531" alt="Testrail" width="40" height="40"/> </a>  <a href="https://testng.org/" target="_blank" rel="noreferrer"> <img src="https://plugins.jetbrains.com/files/21606/screenshot_a0a6cc96-51f6-46d0-a348-422f81ebab05" alt="scala" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain-wordmark.svg" alt="Github Actions" width="40" height="40"/> </a> <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="jmeter" width="40" height="40"/> </a> <a href="http://appium.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353413/appium.svg" alt="appium" width="40" height="40"/> </a> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/> </a></p> 
-
-<h2> 🤳 Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahmoud-elmokadem-b38742130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-elmokadem-b38742130/" height="40" width="40" /></a>
-<a href="https://www.facebook.com/mahmoud.alaa.52012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahmoud El-Mokadem" height="40" width="40" /></a> <a href="https://www.instagram.com/whoismokadem?igsh=MXk1dDIyMXBxcmRn&utm_source=qr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Mahmoud El-Mokadem" height="40" width="40" /></a>
-</p>
-
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
