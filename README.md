@@ -9,7 +9,7 @@
   </p>
 <p>
     <a href="https://www.linkedin.com/in/mahmoud-elmokadem-b38742130/"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:24px; object-fit:contain;"/></a>
+      <img src="https://komarev.com/ghpvc/?username=elmukkadem&style=flat&color=3010A0" style="height:24px; object-fit:contain;"/></a>
   </p>
   
  <p>
@@ -39,7 +39,7 @@
 <br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=el-mukkadem&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=el-mukkadem&layout=compact&langs_count=3&theme=highcontrast" height="125"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=el-mukkadem&theme=highcontrast" height="125"/>
   </p>
 <br>
